@@ -1,4 +1,4 @@
-Changelog
+Changelogs
 =========
 
 2018-06-28
